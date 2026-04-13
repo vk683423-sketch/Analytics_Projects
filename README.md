@@ -44,6 +44,15 @@ The dashboard highlights the Top 6 states generating maximum sales, including:
 - DAX Measures
 - Data Visualization
 
+ ## Business Insights
+
+- West region generates the highest profit compared to other regions.
+- West Bengal and Tamil Nadu are the top performing states in terms of sales.
+- UPI and Credit are the most preferred payment modes by customers.
+- Sales show fluctuations across months indicating seasonal demand patterns.
+- Major customers like Reliance Retail and Flipkart contribute significantly to total revenue.
+ 
+
 
 ## Dasboard Preview
 <img width="1320" height="729" alt="Screenshot 2026-04-06 083103" src="https://github.com/user-attachments/assets/5e105f71-9218-49bf-89cb-8c05bc34ba4e" />
